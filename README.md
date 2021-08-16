@@ -2,7 +2,7 @@
 
 ## Funcionalidad
 
-
+mediante un .csv va comparando caracteres que son conflictivos por ejemplo la ñ.
 
 ## Como se Utiliza
 
